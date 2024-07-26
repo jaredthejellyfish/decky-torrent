@@ -1,0 +1,10 @@
+{
+  "name": "Decky Torrent",
+  "author": "Jared Hernandez",
+  "flags": ["debug", "_root"],
+  "publish": {
+    "tags": ["template", "root"],
+    "description": "A plugin to download torrents from the steamdeck interface.",
+    "image": "https://opengraph.githubassets.com/1/SteamDeckHomebrew/PluginLoader"
+  }
+}
