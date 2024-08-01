@@ -57,3 +57,7 @@ cli/*
 cli/decky
 
 docker/*
+
+py_modules/*
+
+venv
